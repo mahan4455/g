@@ -10,7 +10,7 @@ const fm = true
 
 bot(
 	{
-		pattern: 'سیک ?(.*)',
+		pattern: 'k ?(.*)',
 		fromMe: fm,
 		desc: 'Remove members from Group by 𝐷𝛥𝛤𝛫.',
 		type: 'group',
